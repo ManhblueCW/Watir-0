@@ -1,0 +1,19 @@
+# Ruby & Bundler
+/.bundle/
+/vendor/
+*.gem
+
+# VSCode
+.vscode/
+
+# System / temp
+*.log
+*.tmp
+.DS_Store
+
+# Reports
+/reports/xml/
+/reports/screenshot/
+
+# Cache
+/.idea/
